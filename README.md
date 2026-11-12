@@ -47,7 +47,6 @@ Bypasses web canvas - Instant network Decline if
 | **Runaway Loop Protection** | Uncapped overdraft; delayed email alerts | **Zero-latency issuer decline at exact card limit** |
 | **Treasury & Lifecycle** | Slow FX wires; shared card exposure | **24/7 USDT top-up; 1-click burn returns unused USD** |
 
----
 
 ### 3. Production Deployment Blueprint
 
